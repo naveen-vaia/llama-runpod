@@ -1,0 +1,6 @@
+torch==2.0.1+cu118
+torchvision==0.15.2+cu118
+torchaudio==2.0.1+cu118
+vllm==0.1.0
+transformers==4.34.0
+accelerate==0.22.0
